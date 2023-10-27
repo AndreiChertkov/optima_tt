@@ -1,0 +1,36 @@
+---> CALC | function_big | d: 100 | n:     1024 | k:  100
+
+FuncChung          | r:  3.0 | t:  22.458 | e_min: 0.0e+00
+                   | y_min_real:  0.000e+00
+                   | y_min_appr:  7.245e-05
+                   | y_min_calc:  7.245e-05
+FuncExp            | r:  1.0 | t:  17.461 | e_min: 0.0e+00
+                   | y_min_real: -1.000e+00
+                   | y_min_appr: -1.000e+00
+                   | y_min_calc: -1.000e+00
+FuncPowell         | r:  2.0 | t:  19.042 | e_min: 1.2e-14
+                   | y_min_real:  0.000e+00
+                   | y_min_appr:  2.800e-08
+                   | y_min_calc:  2.800e-08
+FuncRastrigin      | r:  2.0 | t:  20.280 | e_min: 0.0e+00
+                   | y_min_real:  0.000e+00
+                   | y_min_appr:  4.426e-01
+                   | y_min_calc:  4.426e-01
+FuncSphere         | r:  2.0 | t:  20.556 | e_min: 0.0e+00
+                   | y_min_real:  0.000e+00
+                   | y_min_appr:  2.231e-03
+                   | y_min_calc:  2.231e-03
+FuncSquares        | r:  2.0 | t:  20.558 | e_min: 0.0e+00
+                   | y_min_real:  0.000e+00
+                   | y_min_appr:  3.972e-01
+                   | y_min_calc:  3.972e-01
+FuncWavy           | r:  2.0 | t:  20.871 | e_min: 0.0e+00
+                   | y_min_real:  0.000e+00
+                   | y_min_appr:  4.242e-04
+                   | y_min_calc:  4.242e-04
+
+===> DONE | function_big | Time:    141.292
+
+
+
+

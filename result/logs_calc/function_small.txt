@@ -1,0 +1,25 @@
+---> CALC | function_small | d:   6 | n:       20 | k:  200
+
+FuncAckley         | r:  9.0 | t:   0.13 | e_min: 1.8e-15 | e_max: 0.0e+00
+FuncAlpine         | r:  2.0 | t:   0.01 | e_min: 1.3e-15 | e_max: 0.0e+00
+FuncChung          | r:  3.0 | t:   0.02 | e_min: 3.5e-12 | e_max: 0.0e+00
+FuncDixon          | r:  3.0 | t:   0.02 | e_min: 1.4e-11 | e_max: 0.0e+00
+FuncExp            | r:  1.0 | t:   0.01 | e_min: 0.0e+00 | e_max: 0.0e+00
+FuncMichalewicz    | r:  2.0 | t:   0.01 | e_min: 0.0e+00 | e_max: 5.3e-16
+FuncPathological   | r: 22.2 | t:   4.63 | e_min: 5.6e-17 | e_max: 8.9e-16
+FuncPinter         | r: 30.4 | t:  24.67 | e_min: 8.5e-14 | e_max: 4.5e-13
+FuncPowell         | r:  2.0 | t:   0.01 | e_min: 3.5e-18 | e_max: 0.0e+00
+FuncQing           | r:  2.0 | t:   0.01 | e_min: 4.1e-06 | e_max: 6.1e-05
+FuncRastrigin      | r:  2.0 | t:   0.01 | e_min: 3.6e-15 | e_max: 0.0e+00
+FuncSchaffer       | r: 20.2 | t:   3.14 | e_min: 2.2e-16 | e_max: 1.8e-15
+FuncSchwefel       | r:  2.0 | t:   0.01 | e_min: 0.0e+00 | e_max: 0.0e+00
+FuncSphere         | r:  2.0 | t:   0.01 | e_min: 6.8e-15 | e_max: 0.0e+00
+FuncSquares        | r:  2.0 | t:   0.01 | e_min: 1.4e-14 | e_max: 0.0e+00
+FuncWavy           | r:  2.0 | t:   0.01 | e_min: 0.0e+00 | e_max: 0.0e+00
+FuncYang           | r:  2.0 | t:   0.01 | e_min: 0.0e+00 | e_max: 0.0e+00
+
+===> DONE | function_small | Time:    110.630
+
+
+
+

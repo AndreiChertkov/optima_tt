@@ -1,0 +1,53 @@
+---> CALC | fpe3d | d:   9 | n:       11 | k:  100
+
+
+------------> Loaded dataset (tst)
+- Dimension :          9
+- Samples   :   1.00e+03
+- Time full :   1.55e+02
+- Time call :   1.55e-01
+- Value min : 4.6796e-03
+- Value avg : 3.7025e-02
+- Value max : 6.9679e-02
+
+
+
+------------> Loaded dataset (trn)
+- Dimension :          9
+- Samples   :   1.00e+05
+- Time full :   1.62e+04
+- Time call :   1.62e-01
+- Value min : 2.7174e-04
+- Value avg : 3.6709e-02
+- Value max : 7.2153e-02
+
+
+
+------------> Resulting indices:
+[[8 4 2]
+ [3 9 2]
+ [4 8 6]]
+
+
+fpe3d | r 25.0 | t_ap 315.61 | t_op   8.14 | e_ap 6.4e-03 | e_op 2.2e-04
+
+------------> Errors for time steps:
+2.3e-05
+4.5e-05
+6.8e-05
+9.0e-05
+1.1e-04
+1.3e-04
+1.6e-04
+1.8e-04
+2.0e-04
+2.2e-04
+
+
+
+
+===> DONE | fpe3d | Time:    324.427
+
+
+
+

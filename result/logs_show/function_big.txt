@@ -1,0 +1,41 @@
+---> SHOW | function_big | 
+
+
+
+% ----------------------------------------
+% AUTO GENERATED DATA | START
+% INFO   > 
+% dim    : 100 
+% size   : 1024 
+
+
+FuncChung      &   3.0 & 0        &  22.5 \\
+\hline
+
+FuncExp        &   1.0 & 0        &  17.5 \\
+\hline
+
+FuncPowell     &   2.0 & 1.21e-14 &  19.0 \\
+\hline
+
+FuncRastrigin  &   2.0 & 0        &  20.3 \\
+\hline
+
+FuncSphere     &   2.0 & 0        &  20.6 \\
+\hline
+
+FuncSquares    &   2.0 & 0        &  20.6 \\
+\hline
+
+FuncWavy       &   2.0 & 0        &  20.9 \\
+\hline
+
+
+% AUTO GENERATED DATA | END
+% ========================================
+
+
+
+
+===> DONE | function_big | Time:      0.007
+

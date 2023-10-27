@@ -1,0 +1,11 @@
+---> CALC | random_small_hist |
+
+k:    1 | t:    0.004 * 10000 | e_max: 9.3e-01
+k:   10 | t:    0.004 * 10000 | e_max: 1.0e+00
+k:   25 | t:    0.004 * 10000 | e_max: 1.0e+00
+
+===> DONE | random_small_hist | Time:   3181.579
+
+
+
+

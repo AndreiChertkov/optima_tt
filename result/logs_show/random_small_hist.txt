@@ -1,0 +1,10 @@
+---> SHOW | random_small_hist | 
+
+
+
+Plot is saved into "./result/plot/random_small_hist.png"
+
+
+
+===> DONE | random_small_hist | Time:      1.083
+
